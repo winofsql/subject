@@ -71,4 +71,8 @@ help
   ```
   rundll32 shell32.dll,SHHelpShortcuts_RunDLL Connect
   ```
+- プログラムと機能
+  ```
+  rundll32 shell32.dll,Control_RunDLL appwiz.cpl
+  ```
 
