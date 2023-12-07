@@ -36,6 +36,8 @@ start .
 ```
 help
 ```
+- ### [正規名](https://learn.microsoft.com/en-us/windows/win32/shell/controlpanel-canonical-names)
+
 
 <br>
 
