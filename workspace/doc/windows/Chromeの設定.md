@@ -27,10 +27,15 @@ Windows Registry Editor Version 5.00
 "HomepageLocation"="https://www.google.com/"
 ```
 
-## ダウンロード
+## ダウンロード( .reg ファイルにしてインポート )
 
 ![image](https://github.com/winofsql/subject/assets/1501327/16f55096-2254-4c2c-be18-41d653e6f3d0)
+```
+Windows Registry Editor Version 5.00
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
+"PromptForDownloadLocation"=dword:00000001
+```
 
 
 ## [広告ブロック](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
