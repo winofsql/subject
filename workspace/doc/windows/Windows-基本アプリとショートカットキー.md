@@ -48,7 +48,7 @@
 | ALT + F4 | ウインドウの終了
 
 
-## [Windows10 のショートカット](https://support.microsoft.com/ja-jp/windows/windows-%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
+## [Windows11 のショートカット](https://support.microsoft.com/ja-jp/windows/windows-%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_11)
 
 ## [Excel のキーボード ショートカット](https://support.microsoft.com/ja-jp/office/excel-%e3%81%ae%e3%82%ad%e3%83%bc%e3%83%9c%e3%83%bc%e3%83%89-%e3%82%b7%e3%83%a7%e3%83%bc%e3%83%88%e3%82%ab%e3%83%83%e3%83%88-1798d9d5-842a-42b8-9c99-9b7213f0040f?ui=ja-jp&rs=ja-jp&ad=jp)
 
