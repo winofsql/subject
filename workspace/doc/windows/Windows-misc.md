@@ -45,4 +45,7 @@ help
 ![image](https://github.com/winofsql/subject/assets/1501327/3bcfa9c4-4ae8-4905-894e-c66a6e71e881)
 
 - ### [正規名](https://learn.microsoft.com/en-us/windows/win32/shell/controlpanel-canonical-names)
+  ```
+  control /name Microsoft.AdministrativeTools
+  ```
 
