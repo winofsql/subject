@@ -50,6 +50,8 @@ help
   ```
 - ### [引数](https://learn.microsoft.com/en-us/windows/win32/shell/executing-control-panel-items)
   ```
-  control.exe desk.cpl,Settings,@Settings
-  ``` 
-
+  control desk.cpl,Settings,@Settings
+  ```
+  ```
+  control appwiz.cpl
+  ```
