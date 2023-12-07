@@ -16,11 +16,15 @@ Windows Registry Editor Version 5.00
 ```
 
 
-## ホームボタン と ブークマークバー
+## ホームボタン と ブークマークバー( .reg ファイルにしてインポート )
 
-![image](https://user-images.githubusercontent.com/1501327/159197162-9a8f82df-188f-4172-a6c2-34a3f284bb98.png)
+![image](https://github.com/winofsql/subject/assets/1501327/e92bffdb-36e3-4318-8c0f-053aa4f69d20)
 ```
-https://www.google.com/
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
+"ShowHomeButton"=dword:00000001
+"HomepageLocation"="https://www.google.com/"
 ```
 
 ## ダウンロード
