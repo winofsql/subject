@@ -1,6 +1,20 @@
 ## [Google Chrome の設定](https://github.com/winofsql/policies-chrome)
 
 ### ブラウザを終了時にログアウトさせるサービスのドメインを登録する
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\CookiesSessionOnlyForUrls]
+"1"="[*.]google.com"
+"2"="github.com"
+"3"="replit.com"
+"4"="[*.]lolipop.jp"
+"5"="paiza.jp"
+"6"="[*.]zoom.us"
+"7"="twitter.com"
+"8"="[*.]rakuten.co.jp"
+```
+
 ![image](https://user-images.githubusercontent.com/1501327/163702374-adf4fe74-61cf-433d-a8d1-31952dcf8e8b.png)\
 ![image](https://user-images.githubusercontent.com/1501327/162353063-283c81b3-20f0-4d91-900d-e88d0ae6a9d9.png)\
 ![image](https://user-images.githubusercontent.com/1501327/163702402-3183dc3c-9439-49db-81d3-e1fc73d201fd.png)
