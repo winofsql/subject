@@ -63,4 +63,8 @@ help
   ```
   rundll32 shell32.dll,Options_RunDLL 7
   ```
+- デバイスマネージャ
+  ```
+  rundll32 devmgr.dll DeviceManager_Execute
+  ```
 
