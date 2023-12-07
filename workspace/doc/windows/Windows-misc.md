@@ -129,4 +129,9 @@ help
   ipconfig > net.txt & net view . >> net.txt & type net.txt
   ``` 
 
+- レジストリ情報を指定位置から全て取得
+  ```
+  reg query "HKLM\SOFTWARE\WOW6432Node\ODBC\ODBCINST.INI" /s
+  ``` 
+
 
