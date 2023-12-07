@@ -139,4 +139,8 @@ help
   tasklist | sort
   ``` 
 
+- ファイルのバイナリ比較( 同じである事を簡単に確かめる )
+  ```
+  fc /b a.txt b.txt
+  ``` 
 
