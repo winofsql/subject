@@ -10,6 +10,19 @@ shell:Common StartUp
 
 <br>
 
+## URI スキーム
+▼ バージョン
+```
+ms-settings:about
+```
+▼ Windows Update
+```
+ms-settings:windowsupdate
+```
+
+<br>
+
+
 ## start コマンド( コマンドプロンプト )
 
 ### パスにスペースが含まれていないフルパスを引数に与えるとそのフォルダでエクスプローラが開く
