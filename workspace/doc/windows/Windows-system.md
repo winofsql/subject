@@ -5,7 +5,7 @@ notepad.exe %SystemRoot%\system32\drivers\etc\hosts
 ```
 ▼ 管理者権限で開く( 更新可能 )
 ```
-powershell -NoProfile -ExecutionPolicy unrestricted -WindowStyle hidden -Command "notepad.exe %SystemRoot%\system32\drivers\etc\hosts -verb runas"
+powershell -NoProfile -ExecutionPolicy unrestricted -WindowStyle hidden -Command "start notepad.exe %SystemRoot%\system32\drivers\etc\hosts -verb runas"
 ```
 ## レジストリエントリ
 
