@@ -123,3 +123,10 @@ help
   ```
   dir > nul
   ``` 
+
+- 複数コマンドを一行で実行
+  ```
+  ipconfig > net.txt & net view . >> net.txt & type net.txt
+  ``` 
+
+
