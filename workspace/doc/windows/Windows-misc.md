@@ -144,3 +144,12 @@ help
   fc /b a.txt b.txt
   ``` 
 
+- フォルダを仮想ドライブとして設定
+  ```
+  subst x: c:\tmp
+  ```
+  ▼ 削除
+  ```
+  subst x: /d
+  ``` 
+
