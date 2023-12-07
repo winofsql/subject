@@ -22,11 +22,6 @@ start .
 help
 ```
 
-## 左下右クリックメニューの Power Shell をコマンドプロンプトに変える
-
-![image](https://user-images.githubusercontent.com/1501327/163703388-eb7e164a-7ea8-4811-bc81-f51dab483b71.png)
-
-
 ## Windows キーのショートカット
 - 拡大鏡
   - WIN + (プラスキー) 
