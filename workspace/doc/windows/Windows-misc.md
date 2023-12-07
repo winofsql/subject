@@ -134,4 +134,9 @@ help
   reg query "HKLM\SOFTWARE\WOW6432Node\ODBC\ODBCINST.INI" /s
   ``` 
 
+- パイプ処理( ソート )
+  ```
+  tasklist | sort
+  ``` 
+
 
