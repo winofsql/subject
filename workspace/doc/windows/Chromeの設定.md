@@ -1,6 +1,6 @@
 ## [Google Chrome の設定](https://github.com/winofsql/policies-chrome)
 
-### ブラウザを終了時にログアウトさせるサービスのドメインを登録する
+### [ブラウザを終了時にログアウトさせるサービスのドメインを登録する](https://github.com/winofsql/policies-chrome/blob/main/chrome-policy-logout.reg)
 ```
 Windows Registry Editor Version 5.00
 
@@ -15,10 +15,6 @@ Windows Registry Editor Version 5.00
 "8"="[*.]rakuten.co.jp"
 ```
 
-![image](https://user-images.githubusercontent.com/1501327/163702402-3183dc3c-9439-49db-81d3-e1fc73d201fd.png)
-```
-[*.]google.com
-```
 
 ## ホームボタン と ブークマークバー
 
