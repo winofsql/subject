@@ -10,7 +10,7 @@ shell:Common StartUp
 
 <br>
 
-## URI スキーム
+## [URI スキーム](https://docs.microsoft.com/ja-jp/windows/uwp/launch-resume/launch-settings-app)
 ▼ バージョン
 ```
 ms-settings:about
