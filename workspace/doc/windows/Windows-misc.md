@@ -81,3 +81,24 @@ help
   ```
 
 <br>
+
+<br>
+
+## コマンドプロンプト
+- ネットワーク情報
+  ```
+  ipconfig /all
+  ``` 
+
+- ネットワーク上のPC の共用の確認
+  ```
+  net view \\pc名
+  ``` 
+
+- 10秒 停止
+  ```
+  timeout /T 10
+  ``` 
+  ```
+  powershell sleep -m 10000
+  ``` 
