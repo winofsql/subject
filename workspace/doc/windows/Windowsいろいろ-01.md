@@ -6,7 +6,7 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 ```
 shell:Common StartUp
 ```
-( このフォルダの一つ上 )
+( ▲ このフォルダの一つ上 )
 
 ## start コマンド( コマンドプロンプト )
 
