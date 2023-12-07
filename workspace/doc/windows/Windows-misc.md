@@ -55,3 +55,12 @@ help
   ```
   control appwiz.cpl
   ```
+
+<br>
+
+## rundll32
+- エクスプローラ設定
+  ```
+  rundll32 shell32.dll,Options_RunDLL 7
+  ```
+
