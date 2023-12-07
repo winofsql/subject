@@ -38,3 +38,8 @@ help
 ```
 
 <br>
+
+
+## コントロールパネル( control.exe )
+![image](https://github.com/winofsql/subject/assets/1501327/3bcfa9c4-4ae8-4905-894e-c66a6e71e881)
+
