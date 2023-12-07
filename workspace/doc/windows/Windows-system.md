@@ -17,6 +17,13 @@ powershell -NoProfile -ExecutionPolicy unrestricted -WindowStyle hidden -Command
 | ODBCドライバ(64) | HKLM\SOFTWARE\ODBC\ODBCINST.INI
 | ODBCドライバ(32) | HKLM\SOFTWARE\WOW6432Node\ODBC\ODBCINST.INI
 
+```
+reg query HKLM\System\CurrentControlSet\Control\ComputerName\ComputerName
+```
+```
+reg query HKLM\SOFTWARE\ODBC\ODBCINST.INI
+```
+
 ## イベントビュアー
 ```
 eventvwr.msc
