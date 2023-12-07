@@ -18,10 +18,10 @@ powershell -NoProfile -ExecutionPolicy unrestricted -WindowStyle hidden -Command
 | ODBCドライバ(32) | HKLM\SOFTWARE\WOW6432Node\ODBC\ODBCINST.INI
 
 ```
-reg query HKLM\System\CurrentControlSet\Control\ComputerName\ComputerName & pause
+cmd /c reg query HKLM\System\CurrentControlSet\Control\ComputerName\ComputerName & pause
 ```
 ```
-reg query HKLM\SOFTWARE\ODBC\ODBCINST.INI & pause
+cmd /c reg query HKLM\SOFTWARE\ODBC\ODBCINST.INI & pause
 ```
 
 ## イベントビュアー
