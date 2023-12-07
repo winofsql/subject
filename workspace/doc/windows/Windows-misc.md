@@ -67,4 +67,8 @@ help
   ```
   rundll32 devmgr.dll DeviceManager_Execute
   ```
+- ネットワークドライブの割り当て
+  ```
+  rundll32 shell32.dll,SHHelpShortcuts_RunDLL Connect
+  ```
 
