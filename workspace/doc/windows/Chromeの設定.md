@@ -37,8 +37,3 @@ Windows Registry Editor Version 5.00
 "PromptForDownloadLocation"=dword:00000001
 ```
 
-
-## [広告ブロック](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
-
-![image](https://github.com/winofsql/subject/assets/1501327/24b21fc5-db59-4ff4-b44e-28d59d70e0a5)
-
