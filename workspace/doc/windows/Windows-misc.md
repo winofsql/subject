@@ -75,4 +75,9 @@ help
   ```
   rundll32 shell32.dll,Control_RunDLL appwiz.cpl
   ```
+- 拡張子実行
+  ```
+  rundll32 shell32.dll,ShellExec_RunDLL ファイルのパス
+  ```
 
+<br>
