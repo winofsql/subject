@@ -103,3 +103,23 @@ help
   ```
   powershell sleep -m 10000
   ``` 
+
+- キーボード入力をファイル化 ( 終了は、CTRL+Z して Enter )
+  ▼ 上書き
+  ```
+  type con > a.txt
+  ```
+  ▼ 追加
+  ```
+  type con >> a.txt
+  ``` 
+
+- 空のファィルを作成
+  ```
+  type nul > a.txt
+  ``` 
+
+- 実行結果を表示しない
+  ```
+  dir > nul
+  ``` 
