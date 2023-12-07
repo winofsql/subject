@@ -8,7 +8,7 @@ shell:Common StartUp
 ```
 ( ▲ このフォルダの一つ上 )
 
-<br><br>
+<br>
 
 ## start コマンド( コマンドプロンプト )
 
