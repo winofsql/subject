@@ -1,0 +1,9 @@
+git clone https://github.com/winofsql/php-req-v01-basic-sqlite.git && cd php-req-v01-basic-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-req-v02-sql-item-layout-sqlite.git && cd php-req-v02-sql-item-layout-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-req-v03-csv-download-sqlite.git && cd php-req-v03-csv-download-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-req-v04-table-scroll-sqlite.git && cd php-req-v04-table-scroll-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-req-v05-row-update-sqlite.git && cd php-req-v05-row-update-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-req-v06-row-update-td-input-sqlite.git && cd php-req-v06-row-update-td-input-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-req-v07-row-update-checked-sqlite.git && cd php-req-v07-row-update-checked-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-req-v08-row-update-selected-sqlite.git && cd php-req-v08-row-update-selected-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-req-ajax-v01-table-scroll-sqlite.git && cd php-req-ajax-v01-table-scroll-sqlite && rmdir .git /S /Q && cd ..
