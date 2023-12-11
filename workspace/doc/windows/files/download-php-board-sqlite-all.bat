@@ -1,0 +1,11 @@
+git clone https://github.com/winofsql/php-board-v06-database-sqlite.git && cd php-board-v06-database-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v07-database-browser-check-sqlite.git && cd php-board-v07-database-browser-check-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v08-database-update-sqlite.git && cd php-board-v08-database-update-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v09-database-delete-sqlite.git && cd php-board-v09-database-delete-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v10-js-data-sqlite.git && cd php-board-v10-js-data-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v11-image-upload-sqlite.git && cd php-board-v11-image-upload-sqlite-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v12-image-database-sqlite.git && cd php-board-v12-image-database-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v13-display-image-sqlite.git && cd php-board-v13-display-image-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v14-text-image-upload-sqlite.git && cd php-board-v14-text-image-upload-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v15-lightbox2-image-sqlite.git && cd php-board-v15-lightbox2-image-sqlite && rmdir .git /S /Q && cd ..
+git clone https://github.com/winofsql/php-board-v16-gd-small-image-sqlite.git && cd php-board-v16-gd-small-image-sqlite && rmdir .git /S /Q && cd ..
