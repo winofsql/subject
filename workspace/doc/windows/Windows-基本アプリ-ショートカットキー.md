@@ -14,7 +14,7 @@
 | ユーザとグループ | netplwiz
 | 共有フォルダ | fsmgmt.msc
 
-![image](https://user-images.githubusercontent.com/1501327/145700194-2bad8cb8-cdd2-43b1-98e0-5fc3947e1632.png)
+![image](https://github.com/winofsql/subject/assets/1501327/835f8c14-ba46-4ba0-846b-03754be08e2e)
 
 ## Windows ロゴ キーのキーボード ショートカット
 
