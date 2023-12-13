@@ -36,7 +36,7 @@
 | M | すべてのウィンドウを最小化する Shift + M で元に戻す )
 | Prt Scr | デスクトップを画像化( ピクチャの中のスクリーンショット )
 
-![image](https://user-images.githubusercontent.com/1501327/145705060-0d887a5d-c78a-4595-a3dc-7d524ddd2f32.png)
+![image](https://github.com/winofsql/subject/assets/1501327/da33a7d2-4052-40b0-bd01-279bb9bfd6b4)
 
 ## Windows のキーボード ショートカット
 
