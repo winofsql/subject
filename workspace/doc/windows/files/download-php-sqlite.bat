@@ -1,3 +1,8 @@
+REM https://www.sqlite.org/download.html
+REM sqlite-tools-win-x64-3440200.zip
+REM c:\app2 に sqlite フォルダを作成して sqldiff.exe sqlite3.exe sqlite3_analyzer.exe をコピー
+REM c:\app2\sqlite にパスを通す
+
 cd ..\..\..\..\
 mkdir php-sqlite
 cd php-sqlite
