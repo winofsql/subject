@@ -9,12 +9,12 @@ Call ..\..\workspace\doc\windows\files\download-php-board-sqlite-all.bat
 cd ..\
 mkdir mtn
 cd mtn
-Call ..\..\workspace\doc\windows\files\download-php-mtn-all.bat
+Call ..\..\workspace\doc\windows\files\download-php-mtn-sqlite-all.bat
 
 cd ..\
 mkdir req
 cd req
-Call ..\..\workspace\doc\windows\files\download-php-req-all.bat
+Call ..\..\workspace\doc\windows\files\download-php-req-sqlite-all.bat
 
 cd ..\
 
