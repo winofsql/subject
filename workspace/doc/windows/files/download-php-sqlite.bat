@@ -21,6 +21,4 @@ Call ..\..\workspace\doc\windows\files\download-php-req-sqlite-all.bat
 
 cd ..\
 
-dir
-
 cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs
