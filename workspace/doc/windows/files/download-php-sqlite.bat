@@ -1,7 +1,7 @@
 REM https://www.sqlite.org/download.html
 REM sqlite-tools-win-x64-3440200.zip
-REM c:\app2 ã« sqlite ãƒ•ã‚©ãƒ«ãƒ€ã‚’ä½œæˆã—ã¦ sqldiff.exe sqlite3.exe sqlite3_analyzer.exe ã‚’ã‚³ãƒ”ãƒ¼
-REM c:\app2\sqlite ã«ãƒ‘ã‚¹ã‚’é€šã™
+REM c:\app2 ‚É sqlite ƒtƒHƒ‹ƒ_‚ğì¬‚µ‚Ä sqldiff.exe sqlite3.exe sqlite3_analyzer.exe ‚ğƒRƒs[
+REM c:\app2\sqlite ‚ÉƒpƒX‚ğ’Ê‚·
 
 cd ..\..\..\..\
 mkdir php-sqlite
