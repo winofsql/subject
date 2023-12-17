@@ -19,6 +19,8 @@
 
 ## 無条件に日本語に翻訳する
 **右クリックメニュー**\
+![image](https://github.com/winofsql/subject/assets/1501327/77b1cb81-af1a-40b3-920c-43dbe0554e3f)
+
 ![image](https://github.com/winofsql/subject/assets/1501327/32c7a2da-f4a5-4ffc-aaf7-b60a37666f21)
 
 ## QR コード
