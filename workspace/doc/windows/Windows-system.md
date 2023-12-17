@@ -60,6 +60,8 @@ gpedit.msc
 ```
 ![image](https://github.com/winofsql/subject/assets/1501327/f4ff60f1-e372-4923-9f3c-dce77a28590a)
 
+![image](https://github.com/winofsql/subject/assets/1501327/1fbf936a-306c-44a6-a75f-a50a0f689d2b)
+
 ## ローカルユーザとグループ
 ```
 lusrmgr.msc
