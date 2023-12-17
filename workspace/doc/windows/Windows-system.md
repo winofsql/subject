@@ -58,7 +58,7 @@ secpol.msc
 ```
 gpedit.msc
 ```
-![image](https://user-images.githubusercontent.com/1501327/145762627-3b6c1eb5-0b36-430a-bc56-541ed7377095.png)
+![image](https://github.com/winofsql/subject/assets/1501327/f4ff60f1-e372-4923-9f3c-dce77a28590a)
 
 ## ローカルユーザとグループ
 ```
