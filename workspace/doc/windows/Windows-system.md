@@ -46,7 +46,7 @@ fsmgmt.msc
 ```
 taskschd.msc
 ```
-![image](https://user-images.githubusercontent.com/1501327/145761023-878657e6-e0fa-4e10-ad75-8734ef141456.png)
+![image](https://github.com/winofsql/subject/assets/1501327/33c32988-9db1-4132-a271-ee6875cfe0e2)
 
 ## ローカル セキュリティ ポリシー
 ```
