@@ -36,8 +36,6 @@ services.msc
 ```
 ![image](https://github.com/winofsql/subject/assets/1501327/2036f20c-ae94-45e3-bc14-1595af123515)
 
-![image](https://user-images.githubusercontent.com/1501327/145759944-57438ea4-b36a-4fbf-9cc4-e8561f226fed.png)
-
 ## 共有フォルダ
 ```
 fsmgmt.msc
