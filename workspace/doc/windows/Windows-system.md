@@ -52,8 +52,7 @@ taskschd.msc
 ```
 secpol.msc
 ```
-![image](https://user-images.githubusercontent.com/1501327/145761658-9c1b3a44-cdd1-4033-9b1c-4dedd0372ab2.png)
-
+![image](https://github.com/winofsql/subject/assets/1501327/1e22502e-980d-436c-93ca-f43ef161fb21)
 
 ## ローカルグループポリシーエディタ
 ```
