@@ -66,7 +66,7 @@ gpedit.msc
 ```
 lusrmgr.msc
 ```
-![image](https://user-images.githubusercontent.com/1501327/145763411-71286583-363d-487a-8c8c-cea984a39f04.png)
+![image](https://github.com/winofsql/subject/assets/1501327/06ec9787-d731-45fe-969e-61a67e166c9c)
 
 ## ファイアーウォール
 ```
