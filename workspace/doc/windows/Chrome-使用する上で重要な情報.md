@@ -21,10 +21,6 @@
 **右クリックメニュー**\
 ![image](https://github.com/winofsql/subject/assets/1501327/77b1cb81-af1a-40b3-920c-43dbe0554e3f)
 
-## QR コード
-![image](https://github.com/winofsql/subject/assets/1501327/a39d9339-39af-4254-ad7a-c6eff4c1c98b)\
-![image](https://github.com/winofsql/subject/assets/1501327/174efa15-b8be-46b1-8b11-c873d9d22e24)
-
 ## キュッシュの消去とハード再読み込み
 **F12 でデベロッパーツールを標示して再読み込みアイコンを右クリック**\
 ![image](https://user-images.githubusercontent.com/1501327/145755997-51b56f44-bc3f-4bbb-8f1e-1059ac89b7d6.png)
