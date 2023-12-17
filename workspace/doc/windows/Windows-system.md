@@ -28,7 +28,7 @@ cmd /c reg query HKLM\SOFTWARE\ODBC\ODBCINST.INI & pause
 ```
 eventvwr.msc
 ```
-![image](https://github.com/winofsql/subject/assets/1501327/57fefcef-3139-4d01-87f7-db3d349017d5)
+![image](https://github.com/winofsql/subject/assets/1501327/2183ef5a-e0fa-47bf-a6e6-00c80d8c8b03)
 
 ## サービス
 ```
