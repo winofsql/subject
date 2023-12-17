@@ -21,8 +21,6 @@
 **右クリックメニュー**\
 ![image](https://github.com/winofsql/subject/assets/1501327/77b1cb81-af1a-40b3-920c-43dbe0554e3f)
 
-![image](https://github.com/winofsql/subject/assets/1501327/32c7a2da-f4a5-4ffc-aaf7-b60a37666f21)
-
 ## QR コード
 ![image](https://github.com/winofsql/subject/assets/1501327/a39d9339-39af-4254-ad7a-c6eff4c1c98b)\
 ![image](https://github.com/winofsql/subject/assets/1501327/174efa15-b8be-46b1-8b11-c873d9d22e24)
