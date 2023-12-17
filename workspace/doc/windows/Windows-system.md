@@ -72,8 +72,7 @@ lusrmgr.msc
 ```
 wf.msc
 ```
-![image](https://user-images.githubusercontent.com/1501327/145764000-2bbdf2a7-833d-410b-830b-450057ca877c.png)
-
+![image](https://github.com/winofsql/subject/assets/1501327/bd767634-b157-4108-9190-1fdbd39c7e85)
 
 ## ネットワーク接続
 ```
