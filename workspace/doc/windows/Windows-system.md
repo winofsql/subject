@@ -40,7 +40,7 @@ services.msc
 ```
 fsmgmt.msc
 ```
-![image](https://github.com/winofsql/subject/assets/1501327/d5a4751d-1c65-4694-ace5-d76df0d886f9)
+![image](https://github.com/winofsql/subject/assets/1501327/d8b9b68b-3d94-4d97-be6f-521aa976e2d6)
 
 ## タスクスケジューラ
 ```
