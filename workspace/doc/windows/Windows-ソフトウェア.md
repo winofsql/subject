@@ -16,8 +16,7 @@
 - ## [VirusTotal ウイルスチェック](https://www.virustotal.com/gui/home/upload)
 
 - ## [Advanced IP Scanner](https://www.advanced-ip-scanner.com/jp/)
-  ![image](https://user-images.githubusercontent.com/1501327/162853928-f7016f0d-00f8-4306-bb22-72cf79df9efd.png)\
-  ![image](https://user-images.githubusercontent.com/1501327/162853965-9340bbcb-600a-45ff-8307-2433c27e649c.png)
+  ![image](https://github.com/winofsql/subject/assets/1501327/670927fe-3f4e-4481-9a89-27c208a48d47)
 
 - ## さくらエディタ
   - [GitHub v2.4.1](https://github.com/sakura-editor/sakura/releases/tag/v2.4.1)
