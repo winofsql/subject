@@ -1,7 +1,5 @@
 # [subject-2022-software](https://github.com/winofsql/subject-2022-software)
 
-## Microsoft
-
 - ## Redistributable packages for Visual Studio 2015, 2017, 2019, and 2022
   - [再頒布可能パッケージ](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
   - [**Visual Studio Community**](https://visualstudio.microsoft.com/ja/vs/whatsnew/) をインストールすると必要無いです
@@ -15,7 +13,7 @@
 - ## Google Drive for Desktop
   - [パソコン版 Google ドライブを導入する](https://support.google.com/a/answer/7491144?hl=ja)
 
-## [VirusTotal ウイルスチェック](https://www.virustotal.com/gui/home/upload)
+- ## [VirusTotal ウイルスチェック](https://www.virustotal.com/gui/home/upload)
 
 - ## [Advanced IP Scanner](https://www.advanced-ip-scanner.com/jp/)
   ![image](https://user-images.githubusercontent.com/1501327/162853928-f7016f0d-00f8-4306-bb22-72cf79df9efd.png)\
