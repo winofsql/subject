@@ -35,7 +35,7 @@
 ## ショートカットをデスクトップに作成
 - Chrome の通常呼び出し
 - アプリのようにアドレスバー無しで呼び出し( 『ウインドウして開く』にチェック )
-- shell:desktop で更新日の新しい順にしてデスクトップから貸して動作確認
+- shell:desktop で更新日の新しい順にしてデスクトップから動かして動作確認
 
 ![image](https://github.com/winofsql/subject/assets/1501327/e8575598-13cb-4ce4-b08d-31e12cfede31)
 
