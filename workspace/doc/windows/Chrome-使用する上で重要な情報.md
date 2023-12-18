@@ -57,8 +57,7 @@
 
 - CTRL + SHIFT + DEL ( Edge や Firefox でも同様のダイアログが開きます )
 
-![image](https://user-images.githubusercontent.com/1501327/159152522-3d0b96a7-31fc-43f3-917d-2b6b98045a28.png)
-
+![image](https://github.com/winofsql/subject/assets/1501327/9e4bbd0a-3960-400a-9842-9bfee344fe3d)
 
 
 ## Chrome の内部ページ一覧
