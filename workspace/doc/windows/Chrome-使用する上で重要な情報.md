@@ -4,7 +4,7 @@
 | :--- | :--- 
 | CTRL + SHIFT + DEL | キャッシュ削除のダイアログ表示( Firefox、Edge も同じ )
 | CTRL + SHIFT + B | ブックマークバーの表示・非表示の切り替え
-| CTRL + SHIFT + T | 閉じたタブを開き直す
+| **CTRL + SHIFT + T** | 閉じたタブを開き直す
 | F12 | デベロッパーツール
 | CTRL + プラスキー | 拡大
 | CTRL + マイナスキー | 縮小
