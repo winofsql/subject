@@ -30,7 +30,7 @@
 ![image](https://github.com/winofsql/subject/assets/1501327/9eeb4078-46c6-4f48-92a2-c44e83fc2bb1)
 
 ## WEBページの取得( 動作可能 )
-![image](https://user-images.githubusercontent.com/1501327/159196113-f689e29b-093a-4086-b3ae-fcece7538620.png)
+![image](https://github.com/winofsql/subject/assets/1501327/d7721713-dabe-49b2-8f7f-d1bfc8154b37)
 
 ## ショートカットをデスクトップに作成
 - Chrome の通常呼び出し
