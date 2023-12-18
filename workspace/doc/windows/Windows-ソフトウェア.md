@@ -17,10 +17,9 @@
 
 ## [VirusTotal ウイルスチェック](https://www.virustotal.com/gui/home/upload)
 
-- ## NetEnum
-  - [ネットワーク内 PC の確認](https://forest.watch.impress.co.jp/library/software/netenum/)\
-![image](https://user-images.githubusercontent.com/1501327/162853928-f7016f0d-00f8-4306-bb22-72cf79df9efd.png)\
-![image](https://user-images.githubusercontent.com/1501327/162853965-9340bbcb-600a-45ff-8307-2433c27e649c.png)
+- ## [Advanced IP Scanner](https://www.advanced-ip-scanner.com/jp/)
+  ![image](https://user-images.githubusercontent.com/1501327/162853928-f7016f0d-00f8-4306-bb22-72cf79df9efd.png)\
+  ![image](https://user-images.githubusercontent.com/1501327/162853965-9340bbcb-600a-45ff-8307-2433c27e649c.png)
 
 - ## さくらエディタ
   - [GitHub v2.4.1](https://github.com/sakura-editor/sakura/releases/tag/v2.4.1)
