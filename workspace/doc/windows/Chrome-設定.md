@@ -29,7 +29,7 @@ Windows Registry Editor Version 5.00
 
 ## ダウンロード( .reg ファイルにしてインポート )
 
-![image](https://github.com/winofsql/subject/assets/1501327/16f55096-2254-4c2c-be18-41d653e6f3d0)
+![image](https://github.com/winofsql/subject/assets/1501327/2e065fec-428e-451f-9bfc-ae4ca6059f61)
 ```
 Windows Registry Editor Version 5.00
 
