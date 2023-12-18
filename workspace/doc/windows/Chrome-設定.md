@@ -18,7 +18,7 @@ Windows Registry Editor Version 5.00
 
 ## ホームボタン と ブークマークバー( .reg ファイルにしてインポート )
 
-![image](https://github.com/winofsql/subject/assets/1501327/e92bffdb-36e3-4318-8c0f-053aa4f69d20)
+![image](https://github.com/winofsql/subject/assets/1501327/a380b5b4-8626-48af-82f8-f55f34a4f381)
 ```
 Windows Registry Editor Version 5.00
 
