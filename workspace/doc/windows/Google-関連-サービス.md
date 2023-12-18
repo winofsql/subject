@@ -8,6 +8,4 @@
 ![image](https://user-images.githubusercontent.com/1501327/145751729-2852069a-1487-4b9c-bacf-7a0a52f1ea26.png)
 
 ## ウェブサービスメニュー
-![image](https://github.com/winofsql/subject/assets/1501327/d6308311-5153-44f4-a59f-5bdf1e41ef43)
-
-
+![image](https://github.com/winofsql/subject/assets/1501327/10e5fded-9270-4ff5-b50a-c34106bb729e)
