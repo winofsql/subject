@@ -81,7 +81,7 @@
   ![image](https://user-images.githubusercontent.com/1501327/163702816-b716e69b-52e5-4166-9f52-3a8159db97bf.png)
 
 - ## Firefox
-  - [消えて行くブラウザ](https://www.mozilla.org/ja/firefox/new/)
+  - [Mozilla](https://www.mozilla.org/ja/firefox/new/)
 
 - ## Visual Studio 2022
   - [Visual Studio Community](https://visualstudio.microsoft.com/ja/vs/whatsnew/)
