@@ -40,7 +40,7 @@
 ![image](https://github.com/winofsql/subject/assets/1501327/e8575598-13cb-4ce4-b08d-31e12cfede31)
 
 ▼ アプリのように呼び出す\
-![image](https://user-images.githubusercontent.com/1501327/159151474-5cd06b5e-2387-4fac-87f2-1daffd68c35a.png)
+![image](https://github.com/winofsql/subject/assets/1501327/d5f81713-4914-45e2-9f45-e819b99f1812)
 
 ## ブックマークの部分移動( 他の PC )
 ![image](https://user-images.githubusercontent.com/1501327/159196804-89582f06-fd8b-486b-aa39-ec6829b02397.png)
