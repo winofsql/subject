@@ -45,13 +45,12 @@
 ## ブックマークの部分移動( 他の PC )
 ![image](https://github.com/winofsql/subject/assets/1501327/b7c4a040-d670-4d98-9679-4e566830af61)
 
-![image](https://user-images.githubusercontent.com/1501327/159151598-68dc7517-3415-47b4-87f0-f4060f55a3b3.png)
+![image](https://github.com/winofsql/subject/assets/1501327/f2c593a1-3647-4d78-9925-8a13bcc96925)
 
 - エクスポートした全体から必要な部分だけ残して保存
 - インポート
 
-![image](https://user-images.githubusercontent.com/1501327/159151794-1f3c948f-e143-4c12-87f5-ec6c2d1bd961.png)
-
+![image](https://github.com/winofsql/subject/assets/1501327/402be266-5227-4124-af9f-2c8ce133cfe9)
 
 ## キャッシュの削除
 
