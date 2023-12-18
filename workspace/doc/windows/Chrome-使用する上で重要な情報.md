@@ -37,7 +37,7 @@
 - アプリのようにアドレスバー無しで呼び出し( 『ウインドウして開く』にチェック )
 - shell:desktop で更新日の新しい順にしてデスクトップから貸して動作確認
 
-![image](https://user-images.githubusercontent.com/1501327/159196164-26245e8b-d6aa-4ce4-9956-ae6e012fa248.png)
+![image](https://github.com/winofsql/subject/assets/1501327/e8575598-13cb-4ce4-b08d-31e12cfede31)
 
 ▼ アプリのように呼び出す\
 ![image](https://user-images.githubusercontent.com/1501327/159151474-5cd06b5e-2387-4fac-87f2-1daffd68c35a.png)
