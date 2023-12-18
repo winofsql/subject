@@ -27,7 +27,7 @@
 
 ## 画像サイズの確認
 タプに画像を表示してタブのバルーンで確認\
-![image](https://user-images.githubusercontent.com/1501327/145758172-fbb78b11-1ec6-466c-883d-7095bcdeb158.png)
+![image](https://github.com/winofsql/subject/assets/1501327/9eeb4078-46c6-4f48-92a2-c44e83fc2bb1)
 
 ## WEBページの取得( 動作可能 )
 ![image](https://user-images.githubusercontent.com/1501327/159196113-f689e29b-093a-4086-b3ae-fcece7538620.png)
