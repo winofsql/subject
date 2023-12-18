@@ -43,7 +43,7 @@
 ![image](https://github.com/winofsql/subject/assets/1501327/d5f81713-4914-45e2-9f45-e819b99f1812)
 
 ## ブックマークの部分移動( 他の PC )
-![image](https://user-images.githubusercontent.com/1501327/159196804-89582f06-fd8b-486b-aa39-ec6829b02397.png)
+![image](https://github.com/winofsql/subject/assets/1501327/b7c4a040-d670-4d98-9679-4e566830af61)
 
 ![image](https://user-images.githubusercontent.com/1501327/159151598-68dc7517-3415-47b4-87f0-f4060f55a3b3.png)
 
