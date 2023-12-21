@@ -66,6 +66,7 @@ chrome://chrome-urls/
 
 chrome://dino
 chrome://version/
+chrome://restart/
 ```
 
 
