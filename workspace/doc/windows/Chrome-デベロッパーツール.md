@@ -5,6 +5,10 @@
 
 ## コンソール
 ![image](https://user-images.githubusercontent.com/1501327/145752639-f28a5a5b-945b-4ac9-be64-6e49e99fca00.png)
+```javascript
+copy(document.getElementsByTagName("HTML")[0].outerHTML)
+```
+
 
 ## ネットワーク
 ![image](https://user-images.githubusercontent.com/1501327/145753473-23ec008e-590c-485c-8c86-90c3fe52bf27.png)
