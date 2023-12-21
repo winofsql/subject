@@ -25,5 +25,10 @@ C:\Users\%USERNAME%\AppData\Roaming\Code\User\script\download.vbs https://github
 Call ..\..\workspace\doc\windows\files\download-php-req-sqlite-all.bat
 
 cd ..\
+mkdir misc
+cd misc
+Call ..\..\workspace\doc\windows\files\downlaod-php-misc-all.bat
+
+cd ..\
 
 cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs
