@@ -31,3 +31,25 @@ formulahendry.code-runner\
 #### 3) script-download.vbs を実行して以下のダイアログが出るまで待ってください
 
 ![image](https://user-images.githubusercontent.com/1501327/221482687-cd64b71e-7208-4047-a1aa-7b22a1088859.png)
+
+### php-subject.bat
+```bat
+@echo off
+title subject
+if exist c:\Users\%USERNAME%\Downloads\subject (
+	c: 
+	cd \Users\%USERNAME%\Downloads
+	ren subject subject-%date:~5,2%%date:~8,2%-%RANDOM%
+	git clone https://github.com/winofsql/subject.git
+	cd subject
+	rmdir .git /S /Q 
+	Code lightbox.code-workspace
+) else (
+	c: 
+	cd \Users\%USERNAME%\Downloads
+	git clone https://github.com/winofsql/subject.git
+	cd subject
+	rmdir .git /S /Q 
+	Code lightbox.code-workspace
+)
+```
