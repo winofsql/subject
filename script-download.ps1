@@ -19,4 +19,4 @@ function Download-File {
 }
 
 # 関数の使用例
-Download-File "C:\Users\lightbox\Downloads\subject" "build-dir.vbs" "https://github.com/winofsql/vscode-template/raw/main/script/build-dir.ps1"
+Download-File "C:\Users\lightbox\Downloads\subject" "build-dir.ps1" "https://github.com/winofsql/vscode-template/raw/main/script/build-dir.ps1"
