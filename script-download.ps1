@@ -18,5 +18,23 @@ function Download-File {
     }
 }
 
+# %APPDATA%\Code\User パスを取得
+$pathBase = [System.Environment]::GetFolderPath('ApplicationData') + "\Code\User"
+
+# 'script' と 'bat' ディレクトリが存在しない場合は作成
+$scriptPath = Join-Path $pathBase "script"
+$batPath = Join-Path $pathBase "bat"
+
+# script ディレクトリの作成
+if (-not (Test-Path $scriptPath)) {
+    New-Item -Path $scriptPath -ItemType Directory
+}
+
+# bat ディレクトリの作成
+if (-not (Test-Path $batPath)) {
+    New-Item -Path $batPath -ItemType Directory
+}
+
+
 # 関数の使用例
-Download-File "C:\Users\lightbox\Downloads\subject" "build-dir.ps1" "https://github.com/winofsql/vscode-template/raw/main/script/build-dir.ps1"
+Download-File $scriptPath "build-dir.ps1" "https://github.com/winofsql/vscode-template/raw/main/script/build-dir.ps1"
