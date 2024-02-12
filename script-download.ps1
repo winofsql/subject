@@ -38,3 +38,4 @@ if (-not (Test-Path $batPath)) {
 
 # 関数の使用例
 Download-File $scriptPath "build-dir.ps1" "https://github.com/winofsql/vscode-template/raw/main/script/build-dir.ps1"
+Download-File $scriptPath "download.ps1" "https://github.com/winofsql/vscode-template/raw/main/script/download.ps1"
