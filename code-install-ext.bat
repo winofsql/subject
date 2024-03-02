@@ -5,7 +5,6 @@ cmd /c code --install-extension ms-ceintl.vscode-language-pack-ja  --force
 cmd /c code --install-extension adrianwilczynski.terminal-commands --force
 cmd /c code --install-extension formulahendry.code-runner --force
 cmd /c code --install-extension ms-dotnettools.csharp --force
-cmd /c code --install-extension fudge.auto-using --force
 cmd /c code --install-extension phu1237.vs-browser --force
 cmd /c code --install-extension tomoki1207.pdf --force
 cmd /c code --install-extension arcanis.vscode-zipfs  --force
