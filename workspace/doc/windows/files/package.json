@@ -131,6 +131,11 @@
 		"id": "ccdb378e-214a-468c-bfce-12192011281c",
 		"publisherId": "4c6d9dea-1a83-45db-ac56-4c2b8bdb3c09",
 		"publisherDisplayName": "Adrian Wilczyński",
-		"installedTimestamp": 1635291444099
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1710140626163,
+		"pinned": false
 	}
 }
